@@ -1,1 +1,3 @@
 # GoL
+
+Java implementation of the Game Of Life. Grid in initialized with 0’s representing the dead cells and 1’s representing alive cells. This app is a 2D space by a 2-dimensional grid. Within this grid are cells, each of which can have two states - alive or dead. A random or predetermined state - also known as a seed - initializes the Game of Life, after which the grid is ran through several iterations, within each iteration the rules determine the state of each cell. Although simple rules and even random seeds determine the future states of the Game of Life, unique shapes and behaviors emerge within the grid. It utilize threading. I was truly unable to complete the threading part due to time constraints.
